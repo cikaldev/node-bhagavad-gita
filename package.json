@@ -1,0 +1,16 @@
+{
+  "name": "node-bhagavad-gita",
+  "version": "0.0.1",
+  "description": "Bhagavad Gita JSON",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "Cikal Studio <cikaldev@gmail.com>",
+  "license": "The Unlicense",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5"
+  }
+}
