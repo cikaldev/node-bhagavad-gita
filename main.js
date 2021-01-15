@@ -98,7 +98,7 @@ function promisePool(cp) {
       // continue/stop the fn
       // increase againts index number of chapter
       if ((idx + 1) !== bhagavad_gita.length) {
-        console.log(cp)
+        console.table(cp)
         
         // increase index number of chapter
         idx += 1;
