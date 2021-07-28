@@ -17,8 +17,8 @@ Or if you looking for a dirty way, here is for you (type the command yourself) :
 
 ```bash
 pkg update
-pkg install nodejs git gh
-gh repo clone cikaldev/node-bhagavad-gita
+pkg install nodejs git
+git clone cikaldev/node-bhagavad-gita
 cd node-bhagavad-gita
 npm install
 npm start
